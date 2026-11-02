@@ -1,0 +1,1939 @@
+[
+ {
+  "suscripcion_id": 8088302,
+  "cliente": "HI VISION INDUSTRIAL",
+  "codigo": "M19122613751333",
+  "orden": "SO2026/8113486",
+  "gram": "luesp",
+  "mrr": 5100.0,
+  "acciones": [
+   "LARGO PLAZO (pendiente)"
+  ],
+  "p_expansion": 0.0147,
+  "p_contraccion": 0.0157,
+  "p_churn": 0.3631,
+  "nota_largo_plazo": "renovacion anual/multianual a 395 dias — no puede churnear antes; candidata para el futuro modelo de largo plazo, no una prediccion"
+ },
+ {
+  "suscripcion_id": 7891646,
+  "cliente": "COMERCIALIZADORA ELECTRONICA DE PRODUCTOS DENTALES",
+  "codigo": "M23042479752461",
+  "orden": "SO2026/7916882",
+  "gram": "luesp",
+  "mrr": 1824.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "excluida": "renovo hace 1 dias — decision reciente ya tomada y pagada",
+  "p_expansion": 0.0646,
+  "p_contraccion": 0.0079,
+  "p_churn": 0.0088
+ },
+ {
+  "suscripcion_id": 7860527,
+  "cliente": "POR FIN EN CASA",
+  "codigo": "M240821169718409",
+  "orden": "SO2026/7885771",
+  "gram": "luesp",
+  "mrr": 1360.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "excluida": "renovo hace 0 dias — decision reciente ya tomada y pagada",
+  "p_expansion": 0.0466,
+  "p_contraccion": 0.0064,
+  "p_churn": 0.094
+ },
+ {
+  "suscripcion_id": 7786455,
+  "cliente": "ASOKAM",
+  "codigo": "M240805165488918",
+  "orden": "SO2026/7811717",
+  "gram": "luesp",
+  "mrr": 15452.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "excluida": "renovo hace 10 dias — decision reciente ya tomada y pagada",
+  "p_expansion": 0.3233,
+  "p_contraccion": 0.0168,
+  "p_churn": 0.0134
+ },
+ {
+  "suscripcion_id": 7848967,
+  "cliente": "INDUSTRIA SOSTENIBLE TODO LIMPIO",
+  "codigo": "M240703156791122",
+  "orden": "SO2026/7874211",
+  "gram": "luesp",
+  "mrr": 1700.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "excluida": "renovo hace 43 dias — decision reciente ya tomada y pagada",
+  "p_expansion": 0.1648,
+  "p_contraccion": 0.0075,
+  "p_churn": 0.0308
+ },
+ {
+  "suscripcion_id": 8000177,
+  "cliente": "ORGULLO DE MAZATLAN",
+  "codigo": "M250613230273957",
+  "orden": "SO2026/8025386",
+  "gram": "luesp",
+  "mrr": 1700.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "excluida": "renovo hace 64 dias — decision reciente ya tomada y pagada",
+  "p_expansion": 0.092,
+  "p_contraccion": 0.0046,
+  "p_churn": 0.0912
+ },
+ {
+  "suscripcion_id": 7914242,
+  "cliente": "THE 3 LETTERS COMPANY",
+  "codigo": "M260203279200272",
+  "orden": "SO2026/7939473",
+  "gram": "luesp",
+  "mrr": 3459.0,
+  "acciones": [
+   "PROBABLE CRECIMIENTO"
+  ],
+  "p_expansion": 0.5391,
+  "porque_expansion": [
+   "has_odoo_sh=True",
+   "antiguedad_meses=6",
+   "hosting=paas"
+  ],
+  "p_contraccion": 0.0577,
+  "p_churn": 0.0422
+ },
+ {
+  "suscripcion_id": 7756230,
+  "cliente": "PC GLOBAL",
+  "codigo": "M240403134968547",
+  "orden": "SO2026/7781500",
+  "gram": "luesp",
+  "mrr": 1700.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "excluida": "renovo hace 53 dias — decision reciente ya tomada y pagada",
+  "p_expansion": 0.1227,
+  "p_contraccion": 0.0052,
+  "p_churn": 0.043
+ },
+ {
+  "suscripcion_id": 7844214,
+  "cliente": "EVENTOS JUST SOLUTIONS MEXICO",
+  "codigo": "M23070489261177",
+  "orden": "SO2026/7869459",
+  "gram": "luesp",
+  "mrr": 3740.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "excluida": "renovo hace 47 dias — decision reciente ya tomada y pagada",
+  "p_expansion": 0.0731,
+  "p_contraccion": 0.0061,
+  "p_churn": 0.0166
+ },
+ {
+  "suscripcion_id": 7756287,
+  "cliente": "SATWS TECHNOLOGIES",
+  "codigo": "M240703156786175",
+  "orden": "SO2026/7781557",
+  "gram": "luesp",
+  "mrr": 7480.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "excluida": "renovo hace 49 dias — decision reciente ya tomada y pagada",
+  "p_expansion": 0.3263,
+  "p_contraccion": 0.0058,
+  "p_churn": 0.0099
+ },
+ {
+  "suscripcion_id": 7949336,
+  "cliente": "AIC International Inc, Alfonso Cuellar",
+  "codigo": "M260625308018681",
+  "orden": "SO2026/7974558",
+  "gram": "luesp",
+  "mrr": 2550.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.4193,
+  "p_contraccion": 0.0827,
+  "p_churn": 0.041
+ },
+ {
+  "suscripcion_id": 7938122,
+  "cliente": "INCAPEGA",
+  "codigo": "M260623307526212",
+  "orden": "SO2026/7963346",
+  "gram": "luesp",
+  "mrr": 2975.0,
+  "acciones": [
+   "PROBABLE CRECIMIENTO"
+  ],
+  "p_expansion": 0.5503,
+  "porque_expansion": [
+   "antiguedad_meses=2",
+   "uso_activos=5",
+   "version=19.0"
+  ],
+  "p_contraccion": 0.0965,
+  "p_churn": 0.0142
+ },
+ {
+  "suscripcion_id": 7702850,
+  "cliente": "FERRETERIA BONAMPAK",
+  "codigo": "M250605228768711",
+  "orden": "SO2026/7727942",
+  "gram": "luesp",
+  "mrr": 1596.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "excluida": "renovo hace 79 dias — decision reciente ya tomada y pagada",
+  "p_expansion": 0.2156,
+  "p_contraccion": 0.008,
+  "p_churn": 0.0477
+ },
+ {
+  "suscripcion_id": 7698220,
+  "cliente": "ALANCREE MEXICO",
+  "codigo": "M240620153479542",
+  "orden": "SO2026/7723314",
+  "gram": "luesp",
+  "mrr": 7060.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "excluida": "renovo hace 63 dias — decision reciente ya tomada y pagada",
+  "p_expansion": 0.1215,
+  "p_contraccion": 0.0093,
+  "p_churn": 0.2114
+ },
+ {
+  "suscripcion_id": 7621709,
+  "cliente": "ABASTECEDORA DE INSUMOS PARA EL DEPORTE, ESTIMULACION Y REHABILITACION",
+  "codigo": "M250506222645780",
+  "orden": "SO2026/7646827",
+  "gram": "luesp",
+  "mrr": 3740.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "excluida": "renovo hace 86 dias — decision reciente ya tomada y pagada",
+  "p_expansion": 0.2286,
+  "p_contraccion": 0.0056,
+  "p_churn": 0.0266
+ },
+ {
+  "suscripcion_id": 7615979,
+  "cliente": "COMPUTACION HARDWARE E IMPRESION",
+  "codigo": "M23031775065033",
+  "orden": "SO2026/7641097",
+  "gram": "luesp",
+  "mrr": 1360.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "excluida": "renovo hace 79 dias — decision reciente ya tomada y pagada",
+  "p_expansion": 0.1852,
+  "p_contraccion": 0.0076,
+  "p_churn": 0.03
+ },
+ {
+  "suscripcion_id": 7503902,
+  "cliente": "COMERCIALIZADORA JOINT",
+  "codigo": "M250520225411444",
+  "orden": "SO2026/7526386",
+  "gram": "luesp",
+  "mrr": 11148.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "excluida": "renovo hace 93 dias — decision reciente ya tomada y pagada",
+  "p_expansion": 0.4709,
+  "p_contraccion": 0.0145,
+  "p_churn": 0.0212
+ },
+ {
+  "suscripcion_id": 7518213,
+  "cliente": "TITANIUM GROUP INVESTMENTS",
+  "codigo": "M250423219545951",
+  "orden": "SO2026/7540696",
+  "gram": "luesp",
+  "mrr": 30092.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "excluida": "renovo hace 87 dias — decision reciente ya tomada y pagada",
+  "p_expansion": 0.7484,
+  "p_contraccion": 0.0106,
+  "p_churn": 0.003
+ },
+ {
+  "suscripcion_id": 7540793,
+  "cliente": "DISTRIBUIDORA ARTOM",
+  "codigo": "M240426140217120",
+  "orden": "SO2026/7563270",
+  "gram": "luesp",
+  "mrr": 2040.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "excluida": "renovo hace 113 dias — decision reciente ya tomada y pagada",
+  "p_expansion": 0.0859,
+  "p_contraccion": 0.0051,
+  "p_churn": 0.0594
+ },
+ {
+  "suscripcion_id": 7689594,
+  "cliente": "RINOINOVATION",
+  "codigo": "M250825244077833",
+  "orden": "SO2026/7714689",
+  "gram": "luesp",
+  "mrr": 6920.0,
+  "acciones": [
+   "PROBABLE CRECIMIENTO"
+  ],
+  "p_expansion": 0.7553,
+  "porque_expansion": [
+   "uso_activos=8",
+   "has_odoo_sh=True",
+   "licencias_sin_crear=-1"
+  ],
+  "p_contraccion": 0.118,
+  "p_churn": 0.0224
+ },
+ {
+  "suscripcion_id": 7517865,
+  "cliente": "NEXORA SYSTEMS",
+  "codigo": "M240422139126743",
+  "orden": "SO2026/7540348",
+  "gram": "luesp",
+  "mrr": 1326.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.1375,
+  "p_contraccion": 0.0029,
+  "p_churn": 0.0056
+ },
+ {
+  "suscripcion_id": 7503584,
+  "cliente": "NATURES FACTORY",
+  "codigo": "M250311211560329",
+  "orden": "SO2026/7526068",
+  "gram": "luesp",
+  "mrr": 4420.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.4478,
+  "p_contraccion": 0.0089,
+  "p_churn": 0.0214
+ },
+ {
+  "suscripcion_id": 7671830,
+  "cliente": "MARIA DE LOS ANGELES COLIN CASASOLA",
+  "codigo": "M22062041252191",
+  "orden": "SO2026/7696928",
+  "gram": "luesp",
+  "mrr": 3825.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.0464,
+  "p_contraccion": 0.0596,
+  "p_churn": 0.0783
+ },
+ {
+  "suscripcion_id": 7646260,
+  "cliente": "LASO INTEGRACIONES DEL SURESTE",
+  "codigo": "M22110452633977",
+  "orden": "SO2026/7671375",
+  "gram": "luesp",
+  "mrr": 9000.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.2669,
+  "p_contraccion": 0.1056,
+  "p_churn": 0.12
+ },
+ {
+  "suscripcion_id": 7635342,
+  "cliente": "STEPHANIA MUÑOZ SUAREZ",
+  "codigo": "M240703156761828",
+  "orden": "SO2026/7660459",
+  "gram": "luesp",
+  "mrr": 5100.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.136,
+  "p_contraccion": 0.0682,
+  "p_churn": 0.0736
+ },
+ {
+  "suscripcion_id": 7617906,
+  "cliente": "GUILLERMO CAVAZOS RIOS",
+  "codigo": "M250408216854686",
+  "orden": "SO2026/7643024",
+  "gram": "luesp",
+  "mrr": 1360.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.3375,
+  "p_contraccion": 0.0057,
+  "p_churn": 0.0397
+ },
+ {
+  "suscripcion_id": 7528389,
+  "cliente": "MUEBLES LOS PATRONES",
+  "codigo": "M250404216145616",
+  "orden": "SO2026/7550869",
+  "gram": "luesp",
+  "mrr": 2508.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.2018,
+  "p_contraccion": 0.0058,
+  "p_churn": 0.0355
+ },
+ {
+  "suscripcion_id": 7250280,
+  "cliente": "DESARROLLO E INGENIERIA COMERCIAL GADI",
+  "codigo": "M22021736641102",
+  "orden": "SO2026/7272487",
+  "gram": "luesp",
+  "mrr": 1020.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.1173,
+  "p_contraccion": 0.0047,
+  "p_churn": 0.0499
+ },
+ {
+  "suscripcion_id": 7591390,
+  "cliente": "Ces Construccion Edificios Sustentables S.A. de C.V, Edgar Garcia Llerandi",
+  "codigo": "M250501221820698",
+  "orden": "SO2026/7614466",
+  "gram": "luesp",
+  "mrr": 855.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.1507,
+  "p_contraccion": 0.0444,
+  "p_churn": 0.0965
+ },
+ {
+  "suscripcion_id": 7584664,
+  "cliente": "JESUS ALEJANDRO VICENTE ELIAS",
+  "codigo": "M22112961455545",
+  "orden": "SO2026/7607135",
+  "gram": "luesp",
+  "mrr": 285.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.0419,
+  "p_contraccion": 0.0277,
+  "p_churn": 0.1576
+ },
+ {
+  "suscripcion_id": 7569212,
+  "cliente": "Canhijos, Emmanuel Rocha",
+  "codigo": "M250929251236433",
+  "orden": "SO2026/7591683",
+  "gram": "luesp",
+  "mrr": 1020.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.2531,
+  "p_contraccion": 0.0528,
+  "p_churn": 0.0323
+ },
+ {
+  "suscripcion_id": 7569033,
+  "cliente": "ANA PATRICIA ORTIZ LLOVERA",
+  "codigo": "M240927181945259",
+  "orden": "SO2026/7591504",
+  "gram": "luesp",
+  "mrr": 1275.0,
+  "acciones": [
+   "RESCATAR"
+  ],
+  "p_expansion": 0.0745,
+  "p_contraccion": 0.0374,
+  "p_churn": 0.3094,
+  "porque_churn": [
+   "uso_activos=0",
+   "version=19.0",
+   "antiguedad_meses=23"
+  ]
+ },
+ {
+  "suscripcion_id": 7539601,
+  "cliente": "Yiyicaru",
+  "codigo": "M250820243189992",
+  "orden": "SO2026/7562079",
+  "gram": "luesp",
+  "mrr": 6055.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.4242,
+  "p_contraccion": 0.1522,
+  "p_churn": 0.0256
+ },
+ {
+  "suscripcion_id": 7561510,
+  "cliente": "H&A Foreign Trade Services",
+  "codigo": "M241127193751323",
+  "orden": "SO2026/7583983",
+  "gram": "luesp",
+  "mrr": 5100.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.2169,
+  "p_contraccion": 0.0554,
+  "p_churn": 0.0564
+ },
+ {
+  "suscripcion_id": 7524990,
+  "cliente": "PERFORACIONES Y EQUIPOS DE BOMBEO QRO",
+  "codigo": "M23032876455334",
+  "orden": "SO2026/7547469",
+  "gram": "luesp",
+  "mrr": 1360.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.0391,
+  "p_contraccion": 0.0038,
+  "p_churn": 0.116
+ },
+ {
+  "suscripcion_id": 7303804,
+  "cliente": "MARCO ANTONIO GONZALEZ ESTRADA",
+  "codigo": "M240311129816586",
+  "orden": "SO2026/7325997",
+  "gram": "luesp",
+  "mrr": 1368.0,
+  "acciones": [
+   "LARGO PLAZO (pendiente)"
+  ],
+  "p_expansion": 0.0643,
+  "p_contraccion": 0.0042,
+  "p_churn": 0.2309,
+  "nota_largo_plazo": "renovacion anual/multianual a 211 dias — no puede churnear antes; candidata para el futuro modelo de largo plazo, no una prediccion"
+ },
+ {
+  "suscripcion_id": 7481286,
+  "cliente": "LOGISTICA DE IMPACTO SOCIAL",
+  "codigo": "M250303210043443",
+  "orden": "SO2026/7503775",
+  "gram": "luesp",
+  "mrr": 1700.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.1468,
+  "p_contraccion": 0.0079,
+  "p_churn": 0.1871
+ },
+ {
+  "suscripcion_id": 7393258,
+  "cliente": "BATERIAS DE MEXICO",
+  "codigo": "M240306128788774",
+  "orden": "SO2026/7415587",
+  "gram": "luesp",
+  "mrr": 9520.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.194,
+  "p_contraccion": 0.0061,
+  "p_churn": 0.0305
+ },
+ {
+  "suscripcion_id": 7360843,
+  "cliente": "SYNERGY SYSTEMS",
+  "codigo": "M250212206592377",
+  "orden": "SO2026/7383179",
+  "gram": "luesp",
+  "mrr": 3740.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.1656,
+  "p_contraccion": 0.0049,
+  "p_churn": 0.0767
+ },
+ {
+  "suscripcion_id": 7471230,
+  "cliente": "PUNTO MEDIO TRANSFORMACION DIGITAL",
+  "codigo": "M241104189862787",
+  "orden": "SO2026/7493723",
+  "gram": "luesp",
+  "mrr": 570.0,
+  "acciones": [
+   "RESCATAR"
+  ],
+  "p_expansion": 0.087,
+  "p_contraccion": 0.055,
+  "p_churn": 0.449,
+  "porque_churn": [
+   "uso_activos=0",
+   "version=19.0",
+   "licencias_contratadas=2"
+  ]
+ },
+ {
+  "suscripcion_id": 7470703,
+  "cliente": "baed0810@gmail.com",
+  "codigo": "M22020636200722",
+  "orden": "SO2026/7493196",
+  "gram": "luesp",
+  "mrr": 3400.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.1465,
+  "p_contraccion": 0.0489,
+  "p_churn": 0.032
+ },
+ {
+  "suscripcion_id": 7461135,
+  "cliente": "NATURAL INTENSITY",
+  "codigo": "M23090497361550",
+  "orden": "SO2026/7483471",
+  "gram": "luesp",
+  "mrr": 850.0,
+  "acciones": [
+   "RESCATAR",
+   "PROBABLE CRECIMIENTO"
+  ],
+  "p_expansion": 0.1132,
+  "p_contraccion": 0.0519,
+  "p_churn": 0.2853,
+  "porque_churn": [
+   "mensual_y_al_tope=True",
+   "version=19.0",
+   "antiguedad_meses=35"
+  ],
+  "cuenta_llena": {
+   "pings_seguidos_al_tope": 5,
+   "licencias": 2,
+   "usuarios_activos": 2,
+   "sugerencia_plan": "mensual al tope — candidata tambien a cambio a plan anual o multianual (cambiar de plan tambien es expansion: sube el ingreso, no solo se venden usuarios o modulos)"
+  }
+ },
+ {
+  "suscripcion_id": 7450197,
+  "cliente": "MARKETMANIA",
+  "codigo": "M260302285360257",
+  "orden": "SO2026/7472532",
+  "gram": "luesp",
+  "mrr": 1360.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.2572,
+  "p_contraccion": 0.0058,
+  "p_churn": 0.1187
+ },
+ {
+  "suscripcion_id": 7429289,
+  "cliente": "ROUND FOODS",
+  "codigo": "M240229127392071",
+  "orden": "SO2026/7451616",
+  "gram": "luesp",
+  "mrr": 2500.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.2205,
+  "p_contraccion": 0.0058,
+  "p_churn": 0.0548
+ },
+ {
+  "suscripcion_id": 7326183,
+  "cliente": "ACTION SPORT DISTRIBUTION",
+  "codigo": "M21022323644848",
+  "orden": "SO2026/7348526",
+  "gram": "luesp",
+  "mrr": 1140.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.0301,
+  "p_contraccion": 0.0036,
+  "p_churn": 0.1425
+ },
+ {
+  "suscripcion_id": 7326167,
+  "cliente": "PKR INDUSTRIAL",
+  "codigo": "M241113191368227",
+  "orden": "SO2026/7348510",
+  "gram": "luesp",
+  "mrr": 2380.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.1068,
+  "p_contraccion": 0.0071,
+  "p_churn": 0.0544
+ },
+ {
+  "suscripcion_id": 7222068,
+  "cliente": "BEATRIZ CABRAL BARRAZA",
+  "codigo": "M20081118938699",
+  "orden": "SO2026/7244282",
+  "gram": "luesp",
+  "mrr": 4420.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.111,
+  "p_contraccion": 0.0058,
+  "p_churn": 0.0617
+ },
+ {
+  "suscripcion_id": 7325568,
+  "cliente": "JALAPEÑO LAB",
+  "codigo": "M250128203685481",
+  "orden": "SO2026/7347911",
+  "gram": "luesp",
+  "mrr": 912.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.1363,
+  "p_contraccion": 0.0048,
+  "p_churn": 0.1569
+ },
+ {
+  "suscripcion_id": 7343268,
+  "cliente": "CENTRO DE ARQUITECTURA DE NEGOCIOS CON TECNOLOGIA",
+  "codigo": "M251202265068439",
+  "orden": "SO2026/7365605",
+  "gram": "luesp",
+  "mrr": 3420.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.3018,
+  "p_contraccion": 0.0566,
+  "p_churn": 0.0469
+ },
+ {
+  "suscripcion_id": 7289946,
+  "cliente": "LAND OPORTUNITIES RIVIERA MAYA",
+  "codigo": "M260127277288208",
+  "orden": "SO2026/7312143",
+  "gram": "luesp",
+  "mrr": 1020.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.2503,
+  "p_contraccion": 0.0054,
+  "p_churn": 0.1622
+ },
+ {
+  "suscripcion_id": 7222082,
+  "cliente": "ALBERTO JAVIER GARCIA LOPEZ",
+  "codigo": "M260113273711333",
+  "orden": "SO2026/7244296",
+  "gram": "luesp",
+  "mrr": 5616.0,
+  "acciones": [
+   "PROBABLE CRECIMIENTO"
+  ],
+  "p_expansion": 0.6224,
+  "porque_expansion": [
+   "has_odoo_sh=True",
+   "uso_activos=6",
+   "mrr_hace_3m=5616.0"
+  ],
+  "p_contraccion": 0.0064,
+  "p_churn": 0.0358
+ },
+ {
+  "suscripcion_id": 7222994,
+  "cliente": "HAZAEL SILVA RODRIGUEZ",
+  "codigo": "M260113273763810",
+  "orden": "SO2026/7245208",
+  "gram": "luesp",
+  "mrr": 2620.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.237,
+  "p_contraccion": 0.0055,
+  "p_churn": 0.0669
+ },
+ {
+  "suscripcion_id": 7220326,
+  "cliente": "KLINTEC",
+  "codigo": "M23011367293684",
+  "orden": "SO2026/7242541",
+  "gram": "luesp",
+  "mrr": 1020.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.1115,
+  "p_contraccion": 0.0041,
+  "p_churn": 0.0846
+ },
+ {
+  "suscripcion_id": 7089169,
+  "cliente": "INGENIERIA EN SISTEMAS DE ENERGIA RENOVABLE, Alejandro Corral Paredes",
+  "codigo": "M250123202853900",
+  "orden": "SO2025/7111426",
+  "gram": "luesp",
+  "mrr": 456.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.1455,
+  "p_contraccion": 0.0051,
+  "p_churn": 0.1824
+ },
+ {
+  "suscripcion_id": 7185794,
+  "cliente": "BOLTRONIC",
+  "codigo": "M22040838606128",
+  "orden": "SO2026/7208017",
+  "gram": "luesp",
+  "mrr": 5100.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.1144,
+  "p_contraccion": 0.0712,
+  "p_churn": 0.0511
+ },
+ {
+  "suscripcion_id": 6969525,
+  "cliente": "ESPACIOS E IMAGEN DE OFICINA",
+  "codigo": "M22121464018964",
+  "orden": "SO2025/6991447",
+  "gram": "luesp",
+  "mrr": 9520.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.1728,
+  "p_contraccion": 0.0116,
+  "p_churn": 0.0184
+ },
+ {
+  "suscripcion_id": 7142914,
+  "cliente": "ARMO DISEÑO",
+  "codigo": "M251223269710762",
+  "orden": "SO2025/7165148",
+  "gram": "luesp",
+  "mrr": 28211.0,
+  "acciones": [
+   "PROBABLE CRECIMIENTO"
+  ],
+  "p_expansion": 0.7929,
+  "porque_expansion": [
+   "uso_activos=37",
+   "licencias_contratadas=73",
+   "has_odoo_sh=True"
+  ],
+  "p_contraccion": 0.0065,
+  "p_churn": 0.0007
+ },
+ {
+  "suscripcion_id": 7029959,
+  "cliente": "PROFESSIONAL DISTRIBUTORS",
+  "codigo": "M251126263934315",
+  "orden": "SO2025/7051872",
+  "gram": "luesp",
+  "mrr": 8360.0,
+  "acciones": [
+   "PROBABLE CRECIMIENTO"
+  ],
+  "p_expansion": 0.7852,
+  "porque_expansion": [
+   "uso_activos=16",
+   "has_odoo_sh=True",
+   "mrr_hace_3m=8360.0"
+  ],
+  "p_contraccion": 0.007,
+  "p_churn": 0.02
+ },
+ {
+  "suscripcion_id": 7125435,
+  "cliente": "LWQ",
+  "codigo": "M250609229272335",
+  "orden": "SO2025/7147687",
+  "gram": "luesp",
+  "mrr": 4420.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.2916,
+  "p_contraccion": 0.0077,
+  "p_churn": 0.054
+ },
+ {
+  "suscripcion_id": 6940255,
+  "cliente": "OPERADORA MIRACLE",
+  "codigo": "M241209195580452",
+  "orden": "SO2025/6962181",
+  "gram": "luesp",
+  "mrr": 1700.0,
+  "acciones": [
+   "RESCATAR"
+  ],
+  "p_expansion": 0.0981,
+  "p_contraccion": 0.003,
+  "p_churn": 0.2662,
+  "porque_churn": [
+   "uso_activos=0",
+   "plan_id=174",
+   "dias_hasta_renovacion=115"
+  ]
+ },
+ {
+  "suscripcion_id": 7004111,
+  "cliente": "ILAMA DISEÑO",
+  "codigo": "M21122934661720",
+  "orden": "SO2025/7026030",
+  "gram": "luesp",
+  "mrr": 912.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.076,
+  "p_contraccion": 0.0034,
+  "p_churn": 0.0676
+ },
+ {
+  "suscripcion_id": 7057407,
+  "cliente": "ANDREA GOMEZ GARAY",
+  "codigo": "M22100345989380",
+  "orden": "SO2025/7079671",
+  "gram": "luesp",
+  "mrr": 1020.0,
+  "acciones": [
+   "RESCATAR"
+  ],
+  "p_expansion": 0.0648,
+  "p_contraccion": 0.004,
+  "p_churn": 0.3196,
+  "porque_churn": [
+   "dias_hasta_renovacion=102",
+   "plan_id=174",
+   "antiguedad_meses=46"
+  ]
+ },
+ {
+  "suscripcion_id": 7029429,
+  "cliente": "GRUPO SOPORTE E INGREDIENTES MEXICO",
+  "codigo": "M230929101137275",
+  "orden": "SO2025/7051342",
+  "gram": "luesp",
+  "mrr": 3740.0,
+  "acciones": [
+   "RESCATAR"
+  ],
+  "p_expansion": 0.0624,
+  "p_contraccion": 0.0044,
+  "p_churn": 0.2847,
+  "porque_churn": [
+   "dias_hasta_renovacion=100",
+   "plan_id=174",
+   "sale_order_template_id=88"
+  ]
+ },
+ {
+  "suscripcion_id": 7016543,
+  "cliente": "CLINIBAC EQUIPOS Y SERVICIOS",
+  "codigo": "M251124263247749",
+  "orden": "SO2025/7038459",
+  "gram": "luesp",
+  "mrr": 6120.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.2847,
+  "p_contraccion": 0.0073,
+  "p_churn": 0.0342
+ },
+ {
+  "suscripcion_id": 6284417,
+  "cliente": "SEGANA",
+  "codigo": "M22112260025280",
+  "orden": "SO2025/6282645",
+  "gram": "luesp",
+  "mrr": 13840.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.0821,
+  "p_contraccion": 0.005,
+  "p_churn": 0.0065
+ },
+ {
+  "suscripcion_id": 6963193,
+  "cliente": "PINK BLUE SKY",
+  "codigo": "M241022187973227",
+  "orden": "SO2025/6985116",
+  "gram": "luesp",
+  "mrr": 1700.0,
+  "acciones": [
+   "RESCATAR"
+  ],
+  "p_expansion": 0.1012,
+  "p_contraccion": 0.0048,
+  "p_churn": 0.2673,
+  "porque_churn": [
+   "dias_hasta_renovacion=84",
+   "plan_id=174",
+   "sale_order_template_id=88"
+  ]
+ },
+ {
+  "suscripcion_id": 6915071,
+  "cliente": "ENERGIA REGIONAL",
+  "codigo": "M251030257842521",
+  "orden": "SO2025/6937006",
+  "gram": "luesp",
+  "mrr": 5560.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.125,
+  "p_contraccion": 0.0124,
+  "p_churn": 0.1792
+ },
+ {
+  "suscripcion_id": 6898600,
+  "cliente": "LOS MEROS MEROS EN ACERO",
+  "codigo": "M241021187763707",
+  "orden": "SO2025/6920540",
+  "gram": "luesp",
+  "mrr": 4250.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.1524,
+  "p_contraccion": 0.0865,
+  "p_churn": 0.2187
+ },
+ {
+  "suscripcion_id": 6900010,
+  "cliente": "ACHEPE AUTOMATION",
+  "codigo": "M251027257050710",
+  "orden": "SO2025/6921950",
+  "gram": "luesp",
+  "mrr": 6493.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.0716,
+  "p_contraccion": 0.0039,
+  "p_churn": 0.0749
+ },
+ {
+  "suscripcion_id": 6795147,
+  "cliente": "THUMMIM SIMHEC",
+  "codigo": "M22100445999759",
+  "orden": "SO2025/6817117",
+  "gram": "luesp",
+  "mrr": 5380.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.208,
+  "p_contraccion": 0.0066,
+  "p_churn": 0.0616
+ },
+ {
+  "suscripcion_id": 6826255,
+  "cliente": "MARKETMANIA",
+  "codigo": "M251008253255197",
+  "orden": "SO2025/6848215",
+  "gram": "luesp",
+  "mrr": 1360.0,
+  "acciones": [
+   "RESCATAR"
+  ],
+  "p_expansion": 0.1086,
+  "p_contraccion": 0.0056,
+  "p_churn": 0.2607,
+  "porque_churn": [
+   "dias_hasta_renovacion=65",
+   "plan_id=174",
+   "sale_order_template_id=88"
+  ]
+ },
+ {
+  "suscripcion_id": 6825449,
+  "cliente": "FRANCISCO JAVIER ALVAREZ AGUILAR",
+  "codigo": "M251008253208831",
+  "orden": "SO2025/6847409",
+  "gram": "luesp",
+  "mrr": 2646.32,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.1948,
+  "p_contraccion": 0.0022,
+  "p_churn": 0.0268
+ },
+ {
+  "suscripcion_id": 6860013,
+  "cliente": "A&A GLOBAL SUPPLY",
+  "codigo": "M251016254966762",
+  "orden": "SO2025/6881968",
+  "gram": "luesp",
+  "mrr": 4297.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.3835,
+  "p_contraccion": 0.0791,
+  "p_churn": 0.0284
+ },
+ {
+  "suscripcion_id": 6758591,
+  "cliente": "MARKETMANIA",
+  "codigo": "M240919179409000",
+  "orden": "SO2025/6780575",
+  "gram": "luesp",
+  "mrr": 1140.0,
+  "acciones": [
+   "RESCATAR"
+  ],
+  "p_expansion": 0.0396,
+  "p_contraccion": 0.0039,
+  "p_churn": 0.8279,
+  "porque_churn": [
+   "dias_hasta_renovacion=31",
+   "uso_activos=0",
+   "plan_id=174"
+  ]
+ },
+ {
+  "suscripcion_id": 6493496,
+  "cliente": "DESARROLLO DE NEGOCIOS UNIVERSALES",
+  "codigo": "M240815168310454",
+  "orden": "SO2025/6509823",
+  "gram": "luesp",
+  "mrr": 5440.0,
+  "acciones": [
+   "RESCATAR"
+  ],
+  "p_expansion": 0.1032,
+  "p_contraccion": 0.0048,
+  "p_churn": 0.2913,
+  "porque_churn": [
+   "dias_hasta_renovacion=38",
+   "plan_id=174",
+   "sale_order_template_id=88"
+  ]
+ },
+ {
+  "suscripcion_id": 6716322,
+  "cliente": "PACN MEXICO",
+  "codigo": "M250910247389898",
+  "orden": "SO2025/6738319",
+  "gram": "luesp",
+  "mrr": 1700.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.1138,
+  "p_contraccion": 0.0031,
+  "p_churn": 0.0725
+ },
+ {
+  "suscripcion_id": 6698253,
+  "cliente": "RONDON & SANCHEZ ABOGADOS",
+  "codigo": "M250905246423487",
+  "orden": "SO2025/6720252",
+  "gram": "luesp",
+  "mrr": 4560.0,
+  "acciones": [
+   "RESCATAR"
+  ],
+  "p_expansion": 0.2791,
+  "p_contraccion": 0.0062,
+  "p_churn": 0.2788,
+  "porque_churn": [
+   "dias_hasta_renovacion=16",
+   "plan_id=174",
+   "sale_order_template_id=82"
+  ]
+ },
+ {
+  "suscripcion_id": 6684488,
+  "cliente": "Exovida, Michel Espinoza",
+  "codigo": "M250606228922650",
+  "orden": "SO2025/6706489",
+  "gram": "luesp",
+  "mrr": 4896.0,
+  "acciones": [
+   "RESCATAR"
+  ],
+  "p_expansion": 0.4649,
+  "p_contraccion": 0.008,
+  "p_churn": 0.5741,
+  "porque_churn": [
+   "dias_hasta_renovacion=14",
+   "plan_id=174",
+   "num_expansiones=7"
+  ]
+ },
+ {
+  "suscripcion_id": 6659217,
+  "cliente": "EVELYN MAGALI LOYOLA  MORALES",
+  "codigo": "M250826244315386",
+  "orden": "SO2025/6681223",
+  "gram": "luesp",
+  "mrr": 2040.0,
+  "acciones": [
+   "LARGO PLAZO (pendiente)"
+  ],
+  "p_expansion": 0.0837,
+  "p_contraccion": 0.0038,
+  "p_churn": 0.7879,
+  "nota_largo_plazo": "renovacion anual/multianual a 369 dias — no puede churnear antes; candidata para el futuro modelo de largo plazo, no una prediccion"
+ },
+ {
+  "suscripcion_id": 6541667,
+  "cliente": "ANTAUI INTERCOMERCIO",
+  "codigo": "M250723237976145",
+  "orden": "SO2025/6557982",
+  "gram": "luesp",
+  "mrr": 4080.0,
+  "acciones": [
+   "RESCATAR"
+  ],
+  "p_expansion": 0.1184,
+  "p_contraccion": 0.0034,
+  "p_churn": 0.74,
+  "porque_churn": [
+   "dias_hasta_renovacion=4",
+   "plan_id=174",
+   "sale_order_template_id=88"
+  ]
+ },
+ {
+  "suscripcion_id": 6663501,
+  "cliente": "LILULILA AM",
+  "codigo": "M250212206507405",
+  "orden": "SO2025/6685507",
+  "gram": "luesp",
+  "mrr": 1275.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.1007,
+  "p_contraccion": 0.0308,
+  "p_churn": 0.136
+ },
+ {
+  "suscripcion_id": 6531231,
+  "cliente": "IMETS, INSTALACION Y MONTAJE DE ESTRUCTURAS, TUBERIAS Y SOLDADURA",
+  "codigo": "M250721237433624",
+  "orden": "SO2025/6547550",
+  "gram": "luesp",
+  "mrr": 1947.9,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "excluida": "renovo hace 10 dias — decision reciente ya tomada y pagada",
+  "p_expansion": 0.3428,
+  "p_contraccion": 0.0021,
+  "p_churn": 0.0048
+ },
+ {
+  "suscripcion_id": 6493159,
+  "cliente": "CAVERNICOLA PRODUCCIONES",
+  "codigo": "M250709235310973",
+  "orden": "SO2025/6509486",
+  "gram": "luesp",
+  "mrr": 4545.1,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "excluida": "renovo hace 33 dias — decision reciente ya tomada y pagada",
+  "p_expansion": 0.1447,
+  "p_contraccion": 0.0037,
+  "p_churn": 0.0159
+ },
+ {
+  "suscripcion_id": 6508499,
+  "cliente": "DBLK",
+  "codigo": "M250714236166707",
+  "orden": "SO2025/6524820",
+  "gram": "luesp",
+  "mrr": 1416.4,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.1068,
+  "p_contraccion": 0.003,
+  "p_churn": 0.0032
+ },
+ {
+  "suscripcion_id": 6465194,
+  "cliente": "GRUPO SCARTO DE MEXICO",
+  "codigo": "M250701233847340",
+  "orden": "SO2025/6481526",
+  "gram": "luesp",
+  "mrr": 1700.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.1506,
+  "p_contraccion": 0.0571,
+  "p_churn": 0.0668
+ },
+ {
+  "suscripcion_id": 6425285,
+  "cliente": "SHOP MASTERPIECE",
+  "codigo": "M250619231492277",
+  "orden": "SO2025/6441632",
+  "gram": "luesp",
+  "mrr": 2201.92,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.1931,
+  "p_contraccion": 0.0018,
+  "p_churn": 0.0031
+ },
+ {
+  "suscripcion_id": 6366350,
+  "cliente": "DESARROLLOS ELECTROMECANICOS PERSAN",
+  "codigo": "M250602228035682",
+  "orden": "SO2025/6382710",
+  "gram": "luesp",
+  "mrr": 5460.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.2311,
+  "p_contraccion": 0.0651,
+  "p_churn": 0.0284
+ },
+ {
+  "suscripcion_id": 6283640,
+  "cliente": "ENVIRONMENTAL & SAFETY PROJECTS",
+  "codigo": "M240424139779456",
+  "orden": "SO2025/6281868",
+  "gram": "luesp",
+  "mrr": 9316.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.3219,
+  "p_contraccion": 0.0065,
+  "p_churn": 0.0061
+ },
+ {
+  "suscripcion_id": 6279263,
+  "cliente": "IDTG",
+  "codigo": "M250507222867813",
+  "orden": "SO2025/6277492",
+  "gram": "luesp",
+  "mrr": 1163.92,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.0683,
+  "p_contraccion": 0.002,
+  "p_churn": 0.0119
+ },
+ {
+  "suscripcion_id": 6242877,
+  "cliente": "JUAN MANUEL RODRÍGUEZ",
+  "codigo": "M250425220762622",
+  "orden": "SO2025/6232960",
+  "gram": "luesp",
+  "mrr": 3571.15,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.2482,
+  "p_contraccion": 0.0039,
+  "p_churn": 0.0047
+ },
+ {
+  "suscripcion_id": 6164200,
+  "cliente": "SERVICIOS Y MATERIALES DE CORTE PARA LA INDUSTRIA",
+  "codigo": "M250401215521324",
+  "orden": "SO2025/6148831",
+  "gram": "luesp",
+  "mrr": 2274.8,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.1462,
+  "p_contraccion": 0.0024,
+  "p_churn": 0.0058
+ },
+ {
+  "suscripcion_id": 6083797,
+  "cliente": "COMERKER",
+  "codigo": "M250307210885694",
+  "orden": "SO2025/6068446",
+  "gram": "luesp",
+  "mrr": 9246.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.1838,
+  "p_contraccion": 0.0021,
+  "p_churn": 0.0221
+ },
+ {
+  "suscripcion_id": 6079898,
+  "cliente": "PREMIUM FREIGHT DE MEXICO",
+  "codigo": "M23090597560497",
+  "orden": "SO2025/6064547",
+  "gram": "luesp",
+  "mrr": 1275.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.0582,
+  "p_contraccion": 0.0255,
+  "p_churn": 0.1799
+ },
+ {
+  "suscripcion_id": 6076487,
+  "cliente": "3Q GLOBAL SOLUTIONS",
+  "codigo": "M250305210493426",
+  "orden": "SO2025/6061137",
+  "gram": "luesp",
+  "mrr": 973.95,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.0758,
+  "p_contraccion": 0.0017,
+  "p_churn": 0.0249
+ },
+ {
+  "suscripcion_id": 6029564,
+  "cliente": "CONSTRUCCIONES ELECTRICAS, CALIDAD Y EFICIENCIA ENERGETICA",
+  "codigo": "M250219207888200",
+  "orden": "SO2025/6014222",
+  "gram": "luesp",
+  "mrr": 2597.2,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.0838,
+  "p_contraccion": 0.0021,
+  "p_churn": 0.0408
+ },
+ {
+  "suscripcion_id": 5986248,
+  "cliente": "CONSTRUCCION E INFRAESTRUCTURA DE MORELOS, Eduardo Castro",
+  "codigo": "M250108199995504",
+  "orden": "SO2025/5970914",
+  "gram": "luesp",
+  "mrr": 13010.0,
+  "acciones": [
+   "PROBABLE CRECIMIENTO",
+   "RIESGO DOWNGRADE"
+  ],
+  "p_expansion": 0.7372,
+  "porque_expansion": [
+   "num_contracciones=3",
+   "uso_activos=11",
+   "has_odoo_sh=True"
+  ],
+  "p_contraccion": 0.2024,
+  "porque_contraccion": [
+   "num_eventos=22",
+   "plan_billing_period_unit=month",
+   "plan_id=173"
+  ],
+  "p_churn": 0.0942
+ },
+ {
+  "suscripcion_id": 5990331,
+  "cliente": "GRUPO ARTDEJOL",
+  "codigo": "M250207205699783",
+  "orden": "SO2025/5974996",
+  "gram": "luesp",
+  "mrr": 4573.95,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.2285,
+  "p_contraccion": 0.0118,
+  "p_churn": 0.0453
+ },
+ {
+  "suscripcion_id": 5748604,
+  "cliente": "IDMEI",
+  "codigo": "M241121192738643",
+  "orden": "SO2024/5674350",
+  "gram": "luesp",
+  "mrr": 1275.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.1271,
+  "p_contraccion": 0.0351,
+  "p_churn": 0.1276
+ },
+ {
+  "suscripcion_id": 5851357,
+  "cliente": "JUAN JUAREZ MONES",
+  "codigo": "M241224197952684",
+  "orden": "SO2024/5777130",
+  "gram": "luesp",
+  "mrr": 924.6,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.0761,
+  "p_contraccion": 0.0017,
+  "p_churn": 0.0129
+ },
+ {
+  "suscripcion_id": 5848594,
+  "cliente": "SEMBEI",
+  "codigo": "M241223197817854",
+  "orden": "SO2024/5774368",
+  "gram": "luesp",
+  "mrr": 1425.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.2271,
+  "p_contraccion": 0.0961,
+  "p_churn": 0.1661
+ },
+ {
+  "suscripcion_id": 5809114,
+  "cliente": "MARKETMANIA",
+  "codigo": "M23073193000721",
+  "orden": "SO2024/5734861",
+  "gram": "luesp",
+  "mrr": 6780.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.3881,
+  "p_contraccion": 0.0083,
+  "p_churn": 0.1315
+ },
+ {
+  "suscripcion_id": 5830517,
+  "cliente": "DINAMICA PLASTICENTRO",
+  "codigo": "M241217196880640",
+  "orden": "SO2024/5756292",
+  "gram": "luesp",
+  "mrr": 14522.75,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.1229,
+  "p_contraccion": 0.0101,
+  "p_churn": 0.0491
+ },
+ {
+  "suscripcion_id": 5809948,
+  "cliente": "AUTOMOTIVE QUALITY SHIELD",
+  "codigo": "M241210195829354",
+  "orden": "SO2024/5735695",
+  "gram": "luesp",
+  "mrr": 2465.6,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.1081,
+  "p_contraccion": 0.0019,
+  "p_churn": 0.0138
+ },
+ {
+  "suscripcion_id": 5707261,
+  "cliente": "DISPOSITIVOS DE TELECOMUNICACION Y SISTEMAS DE MEXICO",
+  "codigo": "M241108190689033",
+  "orden": "SO2024/5633011",
+  "gram": "luesp",
+  "mrr": 652.2,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.0127,
+  "p_contraccion": 0.002,
+  "p_churn": 0.1454
+ },
+ {
+  "suscripcion_id": 5646457,
+  "cliente": "MOTOR AVANTGART",
+  "codigo": "M241021187725392",
+  "orden": "SO2024/5572397",
+  "gram": "luesp",
+  "mrr": 15536.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.1794,
+  "p_contraccion": 0.0146,
+  "p_churn": 0.0512
+ },
+ {
+  "suscripcion_id": 5457177,
+  "cliente": "BALESIA TECHNOLOGIES",
+  "codigo": "M231013103184654",
+  "orden": "SO2024/5383142",
+  "gram": "luesp",
+  "mrr": 1732.8,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.0429,
+  "p_contraccion": 0.0023,
+  "p_churn": 0.165
+ },
+ {
+  "suscripcion_id": 5583932,
+  "cliente": "CLOUD INNOVATION SOLUTIONS AND TECHNOLOGY EVOLUTION",
+  "codigo": "M241003183587372",
+  "orden": "SO2024/5509881",
+  "gram": "luesp",
+  "mrr": 973.95,
+  "acciones": [
+   "RESCATAR"
+  ],
+  "p_expansion": 0.0286,
+  "p_contraccion": 0.0014,
+  "p_churn": 0.2517,
+  "porque_churn": [
+   "dias_hasta_renovacion=48",
+   "version=19.0",
+   "uso_activos=1"
+  ]
+ },
+ {
+  "suscripcion_id": 5607856,
+  "cliente": "KANAN SMART SOLUTION",
+  "codigo": "M241009185433282",
+  "orden": "SO2024/5533799",
+  "gram": "luesp",
+  "mrr": 2052.0,
+  "acciones": [
+   "RESCATAR"
+  ],
+  "p_expansion": 0.0621,
+  "p_contraccion": 0.0035,
+  "p_churn": 0.4211,
+  "porque_churn": [
+   "dias_hasta_renovacion=48",
+   "plan_id=174",
+   "sale_order_template_id=82"
+  ]
+ },
+ {
+  "suscripcion_id": 5544712,
+  "cliente": "TECNOLOGIAS AGRIBEST",
+  "codigo": "M240924180812299",
+  "orden": "SO2024/5470665",
+  "gram": "luesp",
+  "mrr": 17240.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.4683,
+  "p_contraccion": 0.0679,
+  "p_churn": 0.0102
+ },
+ {
+  "suscripcion_id": 5377656,
+  "cliente": "ROGELIO GARCIA BRAVO",
+  "codigo": "M240822170110968",
+  "orden": "SO2024/5303630",
+  "gram": "luesp",
+  "mrr": 2125.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.1247,
+  "p_contraccion": 0.0202,
+  "p_churn": 0.1264
+ },
+ {
+  "suscripcion_id": 5101951,
+  "cliente": "STOV MEX",
+  "codigo": "M240626154998271",
+  "orden": "SO2024/5027457",
+  "gram": "luesp",
+  "mrr": 11488.6,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "excluida": "renovo hace 36 dias — decision reciente ya tomada y pagada",
+  "p_expansion": 0.2301,
+  "p_contraccion": 0.0113,
+  "p_churn": 0.002
+ },
+ {
+  "suscripcion_id": 4765403,
+  "cliente": "NIVRES INDUSTRIES",
+  "codigo": "M240416137758073",
+  "orden": "SO2024/4690303",
+  "gram": "luesp",
+  "mrr": 2720.0,
+  "acciones": [
+   "PROBABLE CRECIMIENTO"
+  ],
+  "p_expansion": 0.0967,
+  "p_contraccion": 0.0035,
+  "p_churn": 0.0057,
+  "cuenta_llena": {
+   "pings_seguidos_al_tope": 12,
+   "licencias": 8,
+   "usuarios_activos": 8
+  }
+ },
+ {
+  "suscripcion_id": 5063969,
+  "cliente": "GAME BROS",
+  "codigo": "M240618152853795",
+  "orden": "SO2024/4989475",
+  "gram": "luesp",
+  "mrr": 11595.0,
+  "acciones": [
+   "RIESGO DOWNGRADE"
+  ],
+  "p_expansion": 0.1016,
+  "p_contraccion": 0.2165,
+  "porque_contraccion": [
+   "dias_desde_ult_expansion=2",
+   "num_eventos=12",
+   "plan_billing_period_unit=month"
+  ],
+  "p_churn": 0.0229
+ },
+ {
+  "suscripcion_id": 4841694,
+  "cliente": "RENDA CONSULTORES",
+  "codigo": "M21053126900071",
+  "orden": "SO2024/4767194",
+  "gram": "luesp",
+  "mrr": 1445.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.0193,
+  "p_contraccion": 0.002,
+  "p_churn": 0.0263
+ },
+ {
+  "suscripcion_id": 4668260,
+  "cliente": "IMPORTADORA MUMEX",
+  "codigo": "M240325132936882",
+  "orden": "SO2024/4593193",
+  "gram": "luesp",
+  "mrr": 3825.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.1883,
+  "p_contraccion": 0.0467,
+  "p_churn": 0.0487
+ },
+ {
+  "suscripcion_id": 4555961,
+  "cliente": "OPERADORA 90",
+  "codigo": "M240111117388073",
+  "orden": "SO2024/4480942",
+  "gram": "luesp",
+  "mrr": 1275.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.1349,
+  "p_contraccion": 0.0197,
+  "p_churn": 0.1196
+ },
+ {
+  "suscripcion_id": 4378269,
+  "cliente": "VALERY PRODUCTS",
+  "codigo": "M240119118897393",
+  "orden": "SO2024/4303306",
+  "gram": "luesp",
+  "mrr": 2550.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.0651,
+  "p_contraccion": 0.0295,
+  "p_churn": 0.1331
+ },
+ {
+  "suscripcion_id": 4211920,
+  "cliente": "IVAN LOPEZ GRANE",
+  "codigo": "M231208112085083",
+  "orden": "SO2023/4136972",
+  "gram": "luesp",
+  "mrr": 1275.0,
+  "acciones": [
+   "RESCATAR"
+  ],
+  "p_expansion": 0.0506,
+  "p_contraccion": 0.0237,
+  "p_churn": 0.2812,
+  "porque_churn": [
+   "uso_activos=0",
+   "antiguedad_meses=32",
+   "dias_desde_ult_evento=632"
+  ]
+ },
+ {
+  "suscripcion_id": 4220403,
+  "cliente": "HUNTER COMPOSITES",
+  "codigo": "M231211112424195",
+  "orden": "SO2023/4145450",
+  "gram": "luesp",
+  "mrr": 1596.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.0397,
+  "p_contraccion": 0.0033,
+  "p_churn": 0.0417
+ },
+ {
+  "suscripcion_id": 4166047,
+  "cliente": "MONTERREY INDUSTRIAL SERVICE SUPPLIES",
+  "codigo": "M231128110294948",
+  "orden": "SO2023/4091109",
+  "gram": "luesp",
+  "mrr": 1700.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.0192,
+  "p_contraccion": 0.004,
+  "p_churn": 0.0849
+ },
+ {
+  "suscripcion_id": 4082252,
+  "cliente": "MARLIN DRILLING SERVICIOS PETROLEROS",
+  "codigo": "M21110832604447",
+  "orden": "SO2023/4007333",
+  "gram": "luesp",
+  "mrr": 3132.45,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.0376,
+  "p_contraccion": 0.0035,
+  "p_churn": 0.0344
+ },
+ {
+  "suscripcion_id": 4007667,
+  "cliente": "CONEKTA INTERMODAL",
+  "codigo": "M22092045344815",
+  "orden": "SO2023/3932768",
+  "gram": "luesp",
+  "mrr": 4450.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.257,
+  "p_contraccion": 0.0536,
+  "p_churn": 0.1017
+ },
+ {
+  "suscripcion_id": 3345057,
+  "cliente": "RESIDENTES DE CHAPALITA",
+  "codigo": "M23050581290105",
+  "orden": "SO2023/3268070",
+  "gram": "luesp",
+  "mrr": 7104.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.1233,
+  "p_contraccion": 0.0054,
+  "p_churn": 0.0853
+ },
+ {
+  "suscripcion_id": 3268452,
+  "cliente": "VERDE TARANNA",
+  "codigo": "M23041378476135",
+  "orden": "SO2023/3191455",
+  "gram": "luesp",
+  "mrr": 850.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.0484,
+  "p_contraccion": 0.0316,
+  "p_churn": 0.145
+ },
+ {
+  "suscripcion_id": 3094094,
+  "cliente": "ALEJANDRO GODINA FUENTES",
+  "codigo": "M23022372218083",
+  "orden": "SO2023/3015884",
+  "gram": "luesp",
+  "mrr": 2125.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.0675,
+  "p_contraccion": 0.0436,
+  "p_churn": 0.1461
+ },
+ {
+  "suscripcion_id": 2445159,
+  "cliente": "ABASTECEDORA INDUSTRIAL RECA",
+  "codigo": "M22102449485745",
+  "orden": "SO2022/2365984",
+  "gram": "luesp",
+  "mrr": 3945.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.0786,
+  "p_contraccion": 0.1341,
+  "p_churn": 0.0758
+ },
+ {
+  "suscripcion_id": 2328451,
+  "cliente": "NO SPOTS INTERNACIONAL",
+  "codigo": "M19103112694227",
+  "orden": "SO2022/2249290",
+  "gram": "luesp",
+  "mrr": 8795.0,
+  "acciones": [
+   "SIN ACCION"
+  ],
+  "p_expansion": 0.1259,
+  "p_contraccion": 0.0988,
+  "p_churn": 0.1089
+ }
+]
